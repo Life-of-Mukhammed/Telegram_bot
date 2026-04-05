@@ -4,7 +4,7 @@ import json
 import os
 
 # 🔐 TOKEN (shu yerga o'zingni tokeningni qo'y)
-BOT_TOKEN = "8362796729:AAHdJ8FUSmck819NFiAuQhGSWy1INwM9boE"
+BOT_TOKEN = "8362796729:AAHIKy6APLNl4CcAL_O54li5zsW7JkkLqfg"
 
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
